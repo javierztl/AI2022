@@ -2,6 +2,5 @@
 AI2022 final project
 
 Please install mmdet followed by offical instruction
-Replace the mmdet folder in this repo of your installed.
-
-Run main.py <video> detect --<show or out>
+Replace the mmdet folder in this repo of your installed
+Run python main.py <video> detect --<show or out>
